@@ -8,3 +8,4 @@ bla bla
 
 
 this is a change within my-new-branch branch
+bla
